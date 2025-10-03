@@ -6,8 +6,8 @@ function Header() {
         <header>
 
             <nav className="">
-                <h1 className="uppercase font-bold text-base">Always Building,</h1>
-                <h2 className="uppercase">Always Learning</h2>
+                <h1 className="uppercase text-base font-helvetica font-bold">Always Building,</h1>
+                <h2 className="uppercase font-helvetica">Always Learning</h2>
             </nav>
         </header>
 
