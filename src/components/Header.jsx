@@ -6,7 +6,8 @@ function Header() {
         <header>
 
             <nav className="">
-                <h1 className="text-3xl">This is nav inside of header</h1>
+                <h1 className="uppercase font-bold text-base">Always Building,</h1>
+                <h2 className="uppercase">Always Learning</h2>
             </nav>
         </header>
 
