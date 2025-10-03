@@ -6,7 +6,7 @@ function Header() {
         <header>
 
             <nav className="">
-                <h1>This is nav inside of header</h1>
+                <h1 className="text-3xl">This is nav inside of header</h1>
             </nav>
         </header>
 
